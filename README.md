@@ -1,5 +1,5 @@
 # CocoaRating.github.io
-The project is a case study and dataset is compiled by Brady Brelinski (founding member of the Manhattan Chocolate Society) aimed at determining the origin of best cocoa beans and countries that produce best chocolate bars.
+The project is a case study and dataset is compiled by Brady Brelinski (founding member of the Manhattan Chocolate Society) aimed at determining the origins of best cocoa beans and countries that produce best chocolate bars.
 
 Tool Used - Microsft Excel
 
